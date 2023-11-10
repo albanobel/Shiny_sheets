@@ -4,3 +4,4 @@ This shiny application reads data from submitted forms of exam dates and display
 
 [Link to Shiny app](https://e1uvw9-alban-laus.shinyapps.io/Shiny_sheets/)
  
+<img src="calendR_snap.png" width="800" align="center" />
